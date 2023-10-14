@@ -20,7 +20,7 @@ const posts:Posts[] = [
       },
       content: [
       { type: 'paragraph', content: 'Eai pessoal, tudo certo? 👋'},
-      { type: 'paragraph', content: 'Meu primeiro post dentro da plataforma que eu mesmo estou desenvolvendo juntamente com o curso Ignite da Rocketseat, aprender React nunca foi tão bom! Aproveitando dê uma olhada no meu GitHub'},
+      { type: 'paragraph', content: 'Meu primeiro post dentro da plataforma que eu mesmo estou desenvolvendo, aprender React nunca foi tão bom! Aproveitando dê uma olhada no meu GitHub'},
       { type: 'link', content: 'github.com/jaohv'},
       ],
       publishedAt: new Date('2022-09-13 17:45:00'),
@@ -28,28 +28,28 @@ const posts:Posts[] = [
   {
       id: 2,
       author: {
-          avatarUrl: 'https://github.com/diego3g.png',
-          name: 'Diego Fernandes',
-          role: 'CTO @ Rocketseat'
+          avatarUrl: 'https://github.com/MauricioKrziminski.png',
+          name: 'Mauricio Krziminski',
+          role: 'Dev @ PUC-RS'
       },
       content: [
       { type: 'paragraph', content: 'Eai pessoal, tudo bem?'},
-      { type: 'paragraph', content: 'Realizando meu primeiro post dentro da plataforma e também avisar que o curso ignite da Rocketseat está muito bom, corre lá pra ver!'},
-      { type: 'link', content: 'https://lp.rocketseat.com.br/ignite'},
+      { type: 'paragraph', content: 'Realizando meu primeiro post dentro da plataforma, confira meu perfil lá no LinkedIN'},
+      { type: 'link', content: 'https://www.linkedin.com/in/mauricio-krziminski/'},
       ],
       publishedAt: new Date('2022-09-12 20:00:00'),
   },
   {
       id: 3,
       author: {
-          avatarUrl: 'https://github.com/maykbrito.png',
-          name: 'Mayk Brito',
-          role: 'Educator @ Rocketseat'
+          avatarUrl: 'https://github.com/DevErickOliveira.png',
+          name: 'Erick Oliveira',
+          role: 'Dev Backend @ SAP'
       },
       content: [
       { type: 'paragraph', content: 'Fala galeraa 👋'},
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      { type: 'link', content: 'jane.design/doctorcare'},
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifólio. Tem varios projetos que fiz durante minha caminhada de estudos.'},
+      { type: 'link', content: 'https://github.com/DevErickOliveira'},
       ],
       publishedAt: new Date('2022-05-12 21:00:00'),
   }
